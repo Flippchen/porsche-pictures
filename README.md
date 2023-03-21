@@ -11,7 +11,9 @@ This folder contains the pictures after the cleanup. There are ~30.000 pictures 
 
 ## Cleanup
 The cleanup was done top get rid of pictures that are not of a Porsche car or the picture is not clear enough to have better results in the AI.
-Example images from cleanup:
+
+
+## Example images from cleanup:
 
 ![Sample images](examples/example1.jpg "Not a Porsche car")
 ![Sample images](examples/example2.jpg "Not a Porsche car")
