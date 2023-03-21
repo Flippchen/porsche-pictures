@@ -6,7 +6,7 @@
 ### Porsche_before_cleanup
 This folder contains the pictures before the cleanup. There are ~32.000 pictures in this folder.
 
-### Porsche_after_cleanup
+### Porsche
 This folder contains the pictures after the cleanup. There are ~30.000 pictures in this folder.
 
 ## Cleanup
